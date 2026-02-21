@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.jpeg" width="100%" />
 </p>
 
 ---
