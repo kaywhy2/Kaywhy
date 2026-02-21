@@ -5,7 +5,7 @@
 
 <div align="center">
   <img 
-    src="banner.jpeg" 
+    src="🔎Night Sky Apartment View.jpeg" 
     alt="Kaywhy Banner"
     width="600"
     style="border-radius: 15px;"
