@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm kaywhy</h1>
 <h3 align="center">🚀 Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
 
-<p align="center">
-  <img src="banner.jpeg" width="100%" />
-</p>
+<div align="center">
+  <img width="1000" height="500" src="your-gif-link-here.gif" alt="Song of the Codemethi Banner"/>
+</div>
+
+<!-- Greeting -->
 
 ---
 
