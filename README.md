@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
 
 <div align="center">
-  <img width="1000" height="500" src="your-gif-link-here.gif" alt="Song of the Codemethi Banner"/>
+  <img width="1000" height="500" src="ezgif.com-gif-to-mp4-converter.mp4" alt="ezgif.com-gif-to-mp4-converter.mp4"/>
 </div>
 
-<!-- Greeting -->
+
 
 ---
 
