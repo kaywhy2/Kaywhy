@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kaywhy</h1>
-<h3 align="center">🚀 Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
+<h1 align="center">Hi , I'm Kaywhy</h1>
+<h3 align="center"> Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
 
 <br/>
 
@@ -14,9 +14,7 @@
 
 <br/>
 
----
-
-## 🧠 About Me
+ 🧠 About Me
 
 - 🔥 Never Ignore Growth — Hustle Till Mastery, Achieve, Repeat, Evolve  
 - 🤖 Building AI-powered applications with JavaScript  
