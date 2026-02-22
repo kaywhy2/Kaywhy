@@ -1,15 +1,30 @@
+<!-- MasterHead -->
+<a href="#">
+  <img width="1000" height="500" src="kaywhy.gif" alt="Kaywhy Banner"/>
+</a>
+
 <h1 align="center">Hi , I'm Kaywhy</h1>
 <h3 align="center"> Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
 
 <br/>
 
 <div align="center">
-  <img 
-    src="kaywhy.gif" 
-    alt="Kaywhy Animated Banner"
-    width="800"
-    style="border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.6);"
-  />
+
+  <!-- Profile Views -->
+  <a href="https://github.com/kaywhy2" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=kaywhy2&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/kaywhy2?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/kaywhy2?style=for-the-badge&label=Stars&color=ffb400&logo=github" />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/kaywhy2?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/kaywhy2?style=for-the-badge&label=Followers&color=blue&logo=github" />
+  </a>
+
 </div>
 
 <br/>
