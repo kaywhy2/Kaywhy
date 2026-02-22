@@ -2,10 +2,6 @@
 <a href="#">
   <img width="1000" height="500" src="kaywhy.gif" alt="Kaywhy Banner"/>
 </a>
-
-<h1 align="center">Hi , I'm Kaywhy</h1>
-<h3 align="center"> Full Stack JavaScript Developer | AI Builder | Growth-Driven</h3>
-
 <br/>
 
 <div align="center">
