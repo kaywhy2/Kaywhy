@@ -61,8 +61,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="45" height="45" alt="Tailwind CSS"/>
 </div>
-
 <!-- Editors I Use -->
 <h3 align="center">🖥️ Editors</h3>
 <div align="center">
