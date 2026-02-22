@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="#">
-  <img width="100%" src="kaywhy.gif" alt="Kaywhy Banner"/>
+  <img width="100%" src="I’m Kaywhy..gif" alt="Kaywhy Banner"/>
 </a>
 
 <div align="center">
