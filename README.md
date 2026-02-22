@@ -5,7 +5,7 @@
 
 <div align="center">
   <img 
-    src="download.gif" 
+    src="kaywhy.gif" 
     alt="Kaywhy Animated Banner"
     width="800"
     style="border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.6);"
