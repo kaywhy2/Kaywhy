@@ -5,10 +5,10 @@
 
 <div align="center">
   <img 
-    src="🔎Night Sky Apartment View.jpeg" 
-    alt="Kaywhy Banner"
-    width="600"
-    style="border-radius: 15px;"
+    src="download.gif" 
+    alt="Kaywhy Animated Banner"
+    width="800"
+    style="border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.6);"
   />
 </div>
 
